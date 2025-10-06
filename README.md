@@ -2,27 +2,28 @@
 
 Agile and resilient Web Developer passionate about building high-quality, user-centered web experiences. I specialize in React, Next.js, TypeScript, and Tailwind CSS, blending modern tech with a strong attention to UI/UX design.
 
-## 🚀 About Me
-- 💻 Frontend enthusiast focused on responsive, accessible, and maintainable web interfaces.
-- 🛠️ Experienced in state management, API integration, and serverless architectures.
-- 🌱 Lifelong learner, always exploring new technologies and modern approaches to development.
-
 ## 🧰 Skills & Toolbox
 
-**Frontend:**  
-Next.js · React · TypeScript · JavaScript (ES6+) · Tailwind CSS · Material UI · Bootstrap · HTML5 · CSS3 · Responsive Web Design · Web Accessibility · DOM Manipulation · Functional Programming · UI/UX Development
-
-**Backend & Services:**  
-Firebase (Auth/Firestore) · Serverless Concepts · Stripe · Vercel Blob · REST APIs & JSON
-
-**Automation & AI:**  
-Prompt Engineering · AI Automation
-
-**Testing & QA:**  
-Jest · React Testing Library · Unit & E2E Testing · Snapshot Testing
-
-**Deployment & Tooling:**  
-Git & GitHub · CI/CD · Web Performance Optimization · Cross-Browser Development · State Management
+<p>
+  <!-- Unique badges -->
+  <img src="https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=white&style=for-the-badge" alt="Next.js" />
+  <img src="https://img.shields.io/badge/React-20232a?logo=react&logoColor=61dafb&style=for-the-badge" alt="React" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white&style=for-the-badge" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-38B2AC?logo=tailwindcss&logoColor=white&style=for-the-badge" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Material%20UI-007FFF?logo=mui&logoColor=white&style=for-the-badge" alt="Material UI" />
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white&style=for-the-badge" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/HTML5-e34c26?logo=html5&logoColor=white&style=for-the-badge" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Firebase-ffca28?logo=firebase&logoColor=black&style=for-the-badge" alt="Firebase" />
+  <img src="https://img.shields.io/badge/Stripe-635bff?logo=stripe&logoColor=white&style=for-the-badge" alt="Stripe" />
+  <img src="https://img.shields.io/badge/Vercel-000?logo=vercel&logoColor=white&style=for-the-badge" alt="Vercel" />
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?logo=netlify&logoColor=white&style=for-the-badge" alt="Netlify" />
+  <img src="https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=white&style=for-the-badge" alt="Jest" />
+  <img src="https://img.shields.io/badge/React%20Testing%20Library-E33332?logo=testing-library&logoColor=white&style=for-the-badge" alt="React Testing Library" />
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" alt="GitHub" />
+</p>
 
 ## 🏆 Featured Projects
 
@@ -43,7 +44,7 @@ Git & GitHub · CI/CD · Web Performance Optimization · Cross-Browser Developme
 ## 🎓 Education
 
 **Code2Career AB, Sweden**  
-Web Development Program (Oct 2025)
+Web Development Program 
 
 ## 🌐 Connect With Me
 
@@ -60,11 +61,8 @@ Web Development Program (Oct 2025)
   🇹🇷 Turkish (Fluent)  
   🇫🇷 French (Beginner)
 
-- **Tech Interests:**  
-  Modern front-end solutions, UI/UX, automation, and continuous learning.
-
 - **Hobbies:**  
-  Exploring new frameworks, learning languages, and connecting with fellow devs!
+  Exploring new tech stack, connecting with fellow devs, learning languages, and knitting!
 
 ---
 
