@@ -53,6 +53,4 @@ Other favorites: Responsive Web Design · Web Accessibility · DOM Manipulation 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/balzhan-kanatbek)
 
----
 
-> _Thanks for visiting! Feel free to reach out or check out my projects._ 😊
