@@ -3,7 +3,7 @@
 
 ---
 
-I'm an agile, resilient Web Developer who loves crafting responsive, accessible, and user-centered web apps.<br>
+I'm an agile, resilient, patient and disciplined Web Developer who loves crafting responsive, accessible, and user-centered web apps.<br>
 I specialize in React, Next.js, TypeScript, and Tailwind CSS, with a strong focus on UI/UX design.
 
 ---
