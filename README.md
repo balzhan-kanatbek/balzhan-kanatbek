@@ -8,7 +8,7 @@ I specialize in React, Next.js, TypeScript, and Tailwind CSS, with a strong focu
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square" alt="JavaScript" />
