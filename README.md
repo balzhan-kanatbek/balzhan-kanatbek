@@ -9,8 +9,7 @@ I specialize in React, Next.js, TypeScript, and Tailwind CSS, with a strong focu
 ---
 
 ### Tech Stack
-<!-- 🧠 Frontend -->
-<h4>⚛️ Frontend</h4>
+<h4> Frontend</h4>
 <p align="left">
   <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=flat-square" alt="Next.js" />
   <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61dafb&style=flat-square" alt="React" />
@@ -23,8 +22,7 @@ I specialize in React, Next.js, TypeScript, and Tailwind CSS, with a strong focu
   <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=flat-square" alt="CSS3" />
 </p>
 
-<!-- 🔧 Backend & Services -->
-<h4>🧩 Backend & Services</h4>
+<h4> Backend & Services</h4>
 <p align="left">
   <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=flat-square" alt="Firebase" />
   <img src="https://img.shields.io/badge/Stripe-635BFF?logo=stripe&logoColor=white&style=flat-square" alt="Stripe" />
@@ -34,16 +32,14 @@ I specialize in React, Next.js, TypeScript, and Tailwind CSS, with a strong focu
   <img src="https://img.shields.io/badge/Serverless%20Concepts-2E7D32?style=flat-square&logo=serverless&logoColor=white" alt="Serverless Concepts" />
 </p>
 
-<!-- ✅ Testing & QA -->
-<h4>🧪 Testing & Quality Assurance</h4>
+<h4> Testing & Quality Assurance</h4>
 <p align="left">
   <img src="https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=white&style=flat-square" alt="Jest" />
   <img src="https://img.shields.io/badge/React%20Testing%20Library-E33332?logo=testing-library&logoColor=white&style=flat-square" alt="React Testing Library" />
   <img src="https://img.shields.io/badge/Playwright-2EAD33?logo=playwright&logoColor=white&style=flat-square" alt="Playwright" />
 </p>
 
-<!-- ⚙️ Tools & Deployment -->
-<h4>⚙️ Tooling & Deployment</h4>
+<h4> Tooling & Deployment</h4>
 <p align="left">
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat-square" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=flat-square" alt="GitHub" />
@@ -53,8 +49,7 @@ I specialize in React, Next.js, TypeScript, and Tailwind CSS, with a strong focu
   <img src="https://img.shields.io/badge/Web%20Performance%20Optimization-FFA500?style=flat-square" alt="Web Performance Optimization" />
 </p>
 
-<!-- 🤖 AI & Automation -->
-<h4>🤖 AI & Automation</h4>
+<h4> AI & Automation</h4>
 <p align="left">
   <img src="https://img.shields.io/badge/Prompt%20Engineering-8A2BE2?style=flat-square" alt="Prompt Engineering" />
   <img src="https://img.shields.io/badge/AI%20Automation-1F1F1F?style=flat-square" alt="AI Automation" />
@@ -66,14 +61,17 @@ I specialize in React, Next.js, TypeScript, and Tailwind CSS, with a strong focu
 
 ### GitHub Stats
 
-<p align="left">
-  <span style="display:inline-block; border: 5px solid #0A4D8C; border-radius: 8px; padding: 4px; margin-right: 8px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=balzhan-kanatbek&show_icons=true&hide_title=true&count_private=true&hide_border=true&theme=default" alt="Balzhan's GitHub Stats" />
-  </span>
-  <span style="display:inline-block; border: 5px solid #0A4D8C; border-radius: 8px; padding: 4px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=balzhan-kanatbek&layout=compact&hide_border=true&theme=default" alt="Top Languages" />
-  </span>
-</p>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=balzhan-kanatbek&show_icons=true&hide_title=true&count_private=true&theme=default" alt="GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=balzhan-kanatbek&layout=compact&theme=default" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
+
 
 ---
 
