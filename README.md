@@ -8,16 +8,6 @@ I specialize in React, Next.js, TypeScript, and Tailwind CSS, with a strong focu
 
 ---
 
-### 🧑‍💻 About Me
-
-- 🚀 Freelance Web Developer
-- 🛍️ Built full-stack e-commerce & portfolio platforms for real clients
-- 🎨 Passionate about beautiful, functional interfaces
-- 🧠 Always learning new tech and leveling up my skills
-- 🌍 Multilingual: Kazakh, Russian, English, Turkish, French
-
----
-
 ### 🛠️ Tech Stack
 
 <p>
