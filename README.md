@@ -2,7 +2,7 @@
 
 ---
 ### Hello World!
-<p>Experienced in building responsive, accessible, and user-centered web interfaces with strong attention to and interest in UI/UX design. Proficient in state management, API integrations, and writing clean, maintainable code. Passionate about creating high-quality, modern front-end solutions and continuously learning new tech.
+<p>I am a Web Developer experienced in building responsive, accessible, and user-centered web interfaces with strong attention to and interest in UI/UX design. Proficient in state management, API integrations, and writing clean, maintainable code. Passionate about creating high-quality, modern front-end solutions and continuously learning new tech.
 </p>
 
 ---
