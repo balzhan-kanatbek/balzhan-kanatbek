@@ -1,7 +1,9 @@
-<img width="1584" height="396" alt="Purple Modern Financial Advisor Profile LinkedIn Banner (2)" src="https://github.com/user-attachments/assets/e4e22b06-dd2e-4cf0-8ece-93374d3f668c" />
-
+<img width="1584" height="396" alt="Dev Profile LinkedIn Banner (2)" src="https://github.com/user-attachments/assets/3ad09ce3-ca0f-4dd2-a23c-3671023ee28b" />
 
 ---
+### Hello World!
+<h4>Experienced in building responsive, accessible, and user-centered web interfaces with strong attention to and interest in UI/UX design. Proficient in state management, API integrations, and writing clean, maintainable code. Passionate about creating high-quality, modern front-end solutions and continuously learning new tech.
+</h4>
 
 ### Tech Stack
 <h4> Frontend</h4>
