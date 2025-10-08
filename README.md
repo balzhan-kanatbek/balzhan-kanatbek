@@ -32,10 +32,10 @@ I specialize in React, Next.js, TypeScript, and Tailwind CSS, with a strong focu
 ### GitHub Stats
 
 <p align="left">
-  <span style="display:inline-block; border: 2px solid #0A4D8C; border-radius: 8px; padding: 4px; margin-right: 8px;">
+  <span style="display:inline-block; border: 5px solid #0A4D8C; border-radius: 8px; padding: 4px; margin-right: 8px;">
     <img src="https://github-readme-stats.vercel.app/api?username=balzhan-kanatbek&show_icons=true&hide_title=true&count_private=true&hide_border=true&theme=default" alt="Balzhan's GitHub Stats" />
   </span>
-  <span style="display:inline-block; border: 2px solid #0A4D8C; border-radius: 8px; padding: 4px;">
+  <span style="display:inline-block; border: 5px solid #0A4D8C; border-radius: 8px; padding: 4px;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=balzhan-kanatbek&layout=compact&hide_border=true&theme=default" alt="Top Languages" />
   </span>
 </p>
