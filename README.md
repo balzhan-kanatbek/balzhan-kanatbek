@@ -59,8 +59,8 @@
 ### GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=balzhan-kanatbek&show_icons=true&hide_title=true&count_private=true&theme=tokyonight" alt="Balzhan's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=balzhan-kanatbek&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=balzhan-kanatbek&show_icons=true&hide_title=true&count_private=true&" alt="Balzhan's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=balzhan-kanatbek&layout=compact" alt="Top Languages" />
 </p>
 
 
