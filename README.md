@@ -2,8 +2,8 @@
 
 ---
 ### Hello World!
-<h4>Experienced in building responsive, accessible, and user-centered web interfaces with strong attention to and interest in UI/UX design. Proficient in state management, API integrations, and writing clean, maintainable code. Passionate about creating high-quality, modern front-end solutions and continuously learning new tech.
-</h4>
+<p>Experienced in building responsive, accessible, and user-centered web interfaces with strong attention to and interest in UI/UX design. Proficient in state management, API integrations, and writing clean, maintainable code. Passionate about creating high-quality, modern front-end solutions and continuously learning new tech.
+</p>
 
 ### Tech Stack
 <h4> Frontend</h4>
