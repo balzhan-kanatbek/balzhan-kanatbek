@@ -69,7 +69,7 @@
 
 ---
 
-### Connect with Me
+### Let's connect!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/balzhan-kanatbek)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=flat-square)](mailto:balzhan.kanatbekk@gmail.com)
