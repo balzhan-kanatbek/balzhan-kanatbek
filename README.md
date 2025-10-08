@@ -3,11 +3,6 @@
 
 ---
 
-I'm an agile, resilient, patient and disciplined Web Developer who loves crafting responsive, accessible, and user-centered web apps.<br>
-I specialize in React, Next.js, TypeScript, and Tailwind CSS, with a strong focus on UI/UX design.
-
----
-
 ### Tech Stack
 <h4> Frontend</h4>
 <p align="left">
@@ -61,16 +56,11 @@ I specialize in React, Next.js, TypeScript, and Tailwind CSS, with a strong focu
 
 ### GitHub Stats
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=balzhan-kanatbek&show_icons=true&hide_title=true&count_private=true&theme=default" alt="GitHub Stats" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=balzhan-kanatbek&layout=compact&theme=default" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=balzhan-kanatbek&show_icons=true&hide_title=true&count_private=true&theme=tokyonight" alt="Balzhan's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=balzhan-kanatbek&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
 
 
 ---
