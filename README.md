@@ -1,5 +1,5 @@
-<h1 align="center" style="color:#fd5c7f;font-family:Comic Sans MS, cursive;">Hello! I'm Balzhan 👋</h1>
-<p align="center"><em>I build modern web experiences & never stop learning.</em></p>
+<img width="1584" height="396" alt="Purple Modern Financial Advisor Profile LinkedIn Banner (2)" src="https://github.com/user-attachments/assets/e4e22b06-dd2e-4cf0-8ece-93374d3f668c" />
+
 
 ---
 
@@ -36,7 +36,6 @@ I specialize in React, Next.js, TypeScript, and Tailwind CSS, with a strong focu
   <img src="https://img.shields.io/badge/React%20Testing%20Library-E33332?logo=testing-library&logoColor=white&style=flat-square" alt="React Testing Library" />
 </p>
 
-Other favorites: Responsive Web Design · Web Accessibility · DOM Manipulation · Functional Programming · UI/UX · Serverless · REST APIs · React Hook Form · Zod · Resend · CI/CD · Optimization · State Management · Prompt Engineering · AI Automation
 
 ---
 
