@@ -1,4 +1,4 @@
-<img width="1584" height="396" alt="Purple Modern Financial Advisor Profile LinkedIn Banner (4)" src="https://github.com/user-attachments/assets/800904a5-9fd8-4324-b859-4d7cbbd51c58" />
+<img width="1584" height="396" alt="Purple Modern Financial Advisor Profile LinkedIn Banner (5)" src="https://github.com/user-attachments/assets/1d4e7d3a-9733-4b9d-8365-6732d37094c3" />
 
 ---
 ### Hello World!
