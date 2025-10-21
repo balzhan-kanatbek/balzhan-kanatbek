@@ -2,7 +2,9 @@
 
 ---
 ### Hello World!
-<p>I am a Web Developer experienced in building responsive, accessible, and user-centered web interfaces with strong attention to and interest in UI/UX design. Proficient in state management, API integrations, and writing clean, maintainable code. Passionate about creating high-quality, modern front-end solutions and continuously learning new tech.
+<p>Web Developer with 2+ years of experience building and delivering B2B and B2C web applications for portfolio clients and business use cases. Successfully deployed 5+ projects leveraging React, Next.js, TypeScript, Tailwind, and JavaScript, with hands-on expertise in Context API, form handling, authentication, and state management. I focus on creating responsive, user-friendly, and maintainable web solutions with precise UI/UX design.
+
+Prior to my transition into tech, I worked for 5+ years as a corporate and technical conference interpreter (English, Russian, Turkish) in international environments, developing strong communication, problem-solving, and cross-team collaboration skills — all of which I bring into every project I build. I thrive in learning-intensive, fast-paced environments and am passionate about translating complex requirements into clean, performant web architectures.
 </p>
 
 ---
