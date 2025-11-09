@@ -3,9 +3,11 @@
 
 ---
 ### Hello World!
-<p>Web Developer with 2+ years of experience building and delivering B2B and B2C web applications for portfolio clients and business use cases. Successfully deployed 5+ projects leveraging React, Next.js, TypeScript, Tailwind, and JavaScript, with hands-on expertise in Context API, form handling, authentication, and state management. I focus on creating responsive, user-friendly, and maintainable web solutions with precise UI/UX design.
+<p>As a Frontend Developer with 2+ years of experience in software development and a background of 5+ years in international corporate communications, I specialize in building modern, high-performance web applications using React, Next.js, and TypeScript. My core strength lies in bridging the gap between technology, design, and people-transforming complex requirements into intuitive, aesthetically pleasing, and scalable digital solutions.
 
-Prior to my transition into tech, I worked for 5+ years as a corporate and technical conference interpreter (English, Russian, Turkish) in international environments, developing strong communication, problem-solving, and cross-team collaboration skills — all of which I bring into every project I build. I thrive in learning-intensive, fast-paced environments and am passionate about translating complex requirements into clean, performant web architectures.
+I've developed and launched 5+ adaptive B2B and B2C web applications, consistently delivering significant impact, such as slashing page load times by 40% and increasing order processing speed by 60% for a client's business. By replacing a cumbersome 6,000-term Word document with a custom PWA, I accelerated term lookup speed by 70%, demonstrating my ability to solve real-world problems with elegant technical solutions.
+
+My background in high-stakes international project coordination has honed my attention to detail, my ability to communicate effectively with stakeholders, and my commitment to writing clean, maintainable code. I thrive in collaborative, Agile environments where I can apply my unique blend of technical and interpersonal skills.
 </p>
 
 ---
