@@ -13,6 +13,7 @@ My background in high-stakes international project coordination has honed my att
 ---
 
 ### Tech Stack
+<h1 align="left">
   <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=flat-square" alt="Next.js" />
   <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61dafb&style=flat-square" alt="React" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white&style=flat-square" alt="TypeScript" />
@@ -39,5 +40,6 @@ My background in high-stakes international project coordination has honed my att
   <img src="https://img.shields.io/badge/Web%20Performance%20Optimization-FFA500?style=flat-square" alt="Web Performance Optimization" />
   <img src="https://img.shields.io/badge/Prompt%20Engineering-8A2BE2?style=flat-square" alt="Prompt Engineering" />
   <img src="https://img.shields.io/badge/AI%20Automation-1F1F1F?style=flat-square" alt="AI Automation" />
+  <h1/>
 
 
